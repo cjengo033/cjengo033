@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carl Javier B. Engo</h1>
 <h3 align="center">A passionate Laravel developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Laravel and React JS**
-
 - 📫 How to reach me **engocarl03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
